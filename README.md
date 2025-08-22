@@ -30,8 +30,8 @@ Main Application Window
 Example Generated CV (DOCX → Screenshot)
 
 🛠 Installation & Usage
-1. Clone the Repository
-git clone https://github.com/your-username/cv-generator.git
+1. Clone the Repository https://github.com/n00rtahsin/Advanced-Professional-CV-Generator
+git clone 
 cd cv-generator
 
 2. Install Dependencies
